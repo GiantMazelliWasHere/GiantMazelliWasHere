@@ -1,11 +1,13 @@
-# Hi, I'm GiantMazelli! :alien:
+# Hi, I'm GiantMazelli!
 
-Just a random nerdy dude that likes to code, listen to music and gaming!
+Just a random nerdy dude that likes to code, listen to music, horror movies and gaming!
 
 ## 👨‍💻 About Me
 
 - :moneybag: Currently working on **Personal Projects** and **Making Money**.
 - :chart_with_upwards_trend: Honing my skills in **Java**, **Python** and **SQL**.
+- Lover of **Horror**.
+- Avid **Gamer**.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -24,6 +26,8 @@ Just a random nerdy dude that likes to code, listen to music and gaming!
 ## 📊 My GitHub Stats
 
 <div align="center">
+
+  ![GiantMazelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiantMazelliWasHere&layout=compact&theme=radical)
   
   ![GiantMazelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiantMazelliWasHere&show_icons=true&theme=radical)
   
