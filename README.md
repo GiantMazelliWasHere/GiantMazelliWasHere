@@ -31,11 +31,16 @@ Just a random nerdy dude that likes to code, listen to music and gaming!
 
 </div>
 
-## 🤝 Let's Connect
+## :link: My Links
 
-<a href="https://www.linkedin.com/in/eduardo-mazelli" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="mailto:YOUR-EMAIL@email.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
+<div align="left">
+  <a href="https://github.com/GiantMazelliWasHere" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/eduardo-mazelli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/giantmazelli.exe/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
