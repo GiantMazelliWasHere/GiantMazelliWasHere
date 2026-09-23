@@ -1,48 +1,30 @@
-# Hi, I'm Eduardo! 👋
+### Hello World, I'm Eduardo!! 🌎
 
-I'm a 4th-year Software Engineering student at FIAP passionate about system architecture, backend development, and building efficient solutions. Welcome to my GitHub!
+... Software Engineering Student!
 
-## 👨‍💻 About Me
+Lover of Technology and Coding ❤️
 
-- 🔭 Currently working on **OmniVault** and exploring cloud and containerized architectures.
-- 🌱 Honing my skills in **Java**, **Python**, **SQL**, and **Azure**.
-- 👯 Looking to collaborate on innovative tech projects and open-source tools.
-- ⌨️ Fun fact: When I'm not coding, you can usually find me tinkering with PC hardware builds or customizing mechanical keyboards.
-- 📫 How to reach me: **[Your Email]**
+## About me
+---
+<a href="https://github.com/GiantMazelliWasHere" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://www.linkedin.com/in/eduardo-mazelli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-## 🛠️ Tech Stack & Tools
+I'm a 4th-year student at FIAP, currently working on **OmniVault** and exploring backend development, cloud, and containerized architectures. When I'm not coding, I'm usually tinkering with PC hardware builds or customizing mechanical keyboards.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+## Languages and Tools:
+---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GiantMazelliWasHere&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiantMazelliWasHere&layout=compact&hide_border=true&theme=default" height="165" alt="Top Languages" />
+</p>
 
-## 📊 My GitHub Stats
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<div align="center">
-  
-  ![GiantMazelliWasHere's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiantMazelliWasHere&show_icons=true&theme=radical)
-  
-  ![GiantMazelliWasHere's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GiantMazelliWasHere&theme=radical)
-
-</div>
-
-## 🤝 Let's Connect
-
-<a href="https://www.linkedin.com/in/eduardo-mazelli" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="mailto:YOUR-EMAIL@email.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
+* Thanks for visiting.
