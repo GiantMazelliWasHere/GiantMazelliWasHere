@@ -1,35 +1,41 @@
-# GiantMazelliWasHere’s Broken Profile Status 🌎
+# Hi, I'm GiantMazelli! :alien:
 
-## About Me
+Just a random nerdy dude that likes to code, listen to music and gaming!
 
-GiantMazelliWasHere is a creative developer using Tev CTR1-enbft. A "fruit-stack" developer with a love for creativity and creative solutions. Connect with me via a glitchy connection at [linkedin.com/in/eduardo-mazelli](https://linkedin.com/in/eduardo-mazelli).
+## 👨‍💻 About Me
 
----
+- :moneybag: Currently working on **Personal Projects** and **Making Money**.
+- :chart_with_upwards_trend: Honing my skills in **Java**, **Python** and **SQL**.
 
-## Languages and Tools:
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-## Broken Stat Visualization
+## 📊 My GitHub Stats
 
-This section mimics the stats structure from the reference, including the glitched aesthetic and the fragmented language pie chart:
+<div align="center">
+  
+  ![GiantMazelliWasHere's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiantMazelliWasHere&show_icons=true&theme=radical)
+  
+  ![GiantMazelliWasHere's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GiantMazelliWasHere&theme=radical)
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiantMazelliWasHere&show_icons=true&hide_border=true&theme=dark" height="165" alt="GiantMazelliWasHere’s GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiantMazelliWasHere&layout=compact&hide_border=true&theme=dark" height="165" alt="Top Languages">
-</p>
----
+</div>
 
-* Thanks for visiting. (Broken Link) 🔗
+## 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/eduardo-mazelli" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="mailto:YOUR-EMAIL@email.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
