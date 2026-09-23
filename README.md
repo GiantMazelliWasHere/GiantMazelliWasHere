@@ -24,12 +24,12 @@ Just a random nerdy dude that likes to code, listen to music, horror movies and 
 ## 📊 My GitHub Stats
 
 <div align="center">
-
-  ![GiantMazelli's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiantMazelliWasHere&layout=compact&theme=radical)
   
-  ![GiantMazelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiantMazelliWasHere&show_icons=true&theme=radical)
-  
-  ![GiantMazelli's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GiantMazelliWasHere&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiantMazelliWasHere&layout=compact&theme=radical&v=1" alt="GiantMazelli's Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GiantMazelliWasHere&show_icons=true&theme=radical&v=1" alt="GiantMazelli's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiantMazelliWasHere&theme=radical&v=1" alt="GiantMazelli's Streak Stats" />
 
 </div>
 
