@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Eduardo (GiantMazelli)! 👋
 
-<!--
-**GiantMazelliWasHere/GiantMazelliWasHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 4th-year Software Engineering student at FIAP passionate about system architecture, backend development, and building efficient solutions. Welcome to my GitHub!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on **Personal Projects**.
+- 🌱 Honing my skills in **Java**, **Python** and **SQL**.
+- 👯 Looking to collaborate on innovative tech projects and open-source tools.
+- ⌨️ Fun fact: When I'm not coding, you can usually find me tinkering with PC hardware builds or gaming.
+- 📫 How to reach me: **eduardo.mazelli@gmail.com**
+
+## 🛠️ Tech Stack & Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GiantMazelliWasHere&show_icons=true&theme=radical" alt="GiantMazelliWasHere's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiantMazelliWasHere&theme=radical" alt="GiantMazelliWasHere's Streak Stats" />
+</div>
+
+## 🤝 Let's Connect
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="www.linkedin.com/in/eduardo-mazelli">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="www.linkedin.com/in/eduardo-mazelli">
+</a>
+<a href="mailto:YOUR-EMAIL@email.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
