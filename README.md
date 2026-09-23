@@ -1,10 +1,10 @@
-# Hi, I'm Eduardo (GiantMazelli)! 👋
+# Hi, I'm GiantMazelli! 👋
 
-I'm a 4th-year Software Engineering student at FIAP passionate about system architecture, backend development, and building efficient solutions. Welcome to my GitHub!
+I'm a just a random nerdy dude that likes to code, game and listen to music!
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Personal Projects**.
+- 🔭 Currently working on **Personal Projects** and **Making Money**.
 - 🌱 Honing my skills in **Java**, **Python** and **SQL**.
 - 👯 Looking to collaborate on innovative tech projects and open-source tools.
 - ⌨️ Fun fact: When I'm not coding, you can usually find me tinkering with PC hardware builds or gaming.
@@ -34,7 +34,7 @@ I'm a 4th-year Software Engineering student at FIAP passionate about system arch
 
 ## 🤝 Let's Connect
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="www.linkedin.com/in/eduardo-mazelli">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="www.linkedin.com/in/eduardo-mazelli">
 </a>
 <a href="mailto:YOUR-EMAIL@email.com">
