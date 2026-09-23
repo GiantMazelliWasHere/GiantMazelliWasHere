@@ -25,9 +25,9 @@ Just a random nerdy dude that likes to code, listen to music and gaming!
 
 <div align="center">
   
-  ![GiantMazelliWasHere's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiantMazelliWasHere&show_icons=true&theme=radical)
+  ![GiantMazelli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiantMazelli&show_icons=true&theme=radical)
   
-  ![GiantMazelliWasHere's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GiantMazelliWasHere&theme=radical)
+  ![GiantMazelli's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=GiantMazelli&theme=radical)
 
 </div>
 
