@@ -64,6 +64,18 @@ Just a random nerdy dude that likes:
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="tensorflow logo"  />
 </div>
 
+## GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiantMazelliWasHere&layout=compact&theme=radical&v=1" alt="GiantMazelli's Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GiantMazelliWasHere&show_icons=true&theme=radical&v=1" alt="GiantMazelli's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiantMazelliWasHere&theme=radical&v=1" alt="GiantMazelli's Streak Stats" />
+
+</div>
+
 ## My Links:
 
 <div align="left">
