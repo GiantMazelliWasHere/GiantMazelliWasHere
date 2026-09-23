@@ -1,4 +1,4 @@
-# Hi, I'm GiantMazelli!
+# I'm GiantMazelli!
 
 Just a random nerdy dude that likes to code, listen to music, horror movies and gaming!
 
